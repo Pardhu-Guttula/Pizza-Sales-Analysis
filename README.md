@@ -1,3 +1,4 @@
+![Report View](https://github.com/Pardhu-Guttula/Pizza-Sales-Analysis/blob/main/Screenshot%202024-04-27%20220944.png)
 # Pizza Sales Analysis Report README
 
 ---
@@ -30,10 +31,9 @@ The analysis report can be accessed using Power BI Desktop or Power BI Service. 
 
 ## Authorship and Contact Information
 
-This analysis report was prepared by [Author's Name] for [Organization/Client Name]. For inquiries or further information, please contact:
+This analysis report was prepared by Pardhu Guttula for Brillio. For inquiries or further information, please contact:
 
-- [Author's Name]: [Email Address]
-- [Organization/Client Name]: [Website/Contact Information]
+- Pardhu Guttula: drpardhu007@gmail.com
 
 ---
 
