@@ -1,4 +1,4 @@
-![Report View](https://github.com/Pardhu-Guttula/Pizza-Sales-Analysis/blob/main/Screenshot%202024-04-27%20220944.png)
+![Report View](https://github.com/Pardhu-Guttula/Pizza-Sales-Analysis/blob/main/Report.png)
 # Pizza Sales Analysis Report README
 
 ---
