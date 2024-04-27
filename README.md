@@ -1,5 +1,5 @@
 ![Report View](https://github.com/Pardhu-Guttula/Pizza-Sales-Analysis/blob/main/Report.png)
-# Pizza Sales Analysis Report README
+# Pizza Sales Analysis Report
 
 ---
 
