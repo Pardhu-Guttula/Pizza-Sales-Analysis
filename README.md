@@ -29,12 +29,6 @@ The analysis report can be accessed using Power BI Desktop or Power BI Service. 
 
 2. **Power BI Service**: If the report has been published to Power BI Service, you can access it through a web browser using the provided URL. Simply click on the link to view the report online and explore the interactive visualizations.
 
-## Authorship and Contact Information
-
-This analysis report was prepared by Pardhu Guttula for Brillio. For inquiries or further information, please contact:
-
-- Pardhu Guttula: drpardhu007@gmail.com
-
 ---
 
 Feel free to customize this README file as needed to provide additional context or instructions specific to your pizza sales analysis report.
